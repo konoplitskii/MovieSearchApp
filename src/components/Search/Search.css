@@ -1,0 +1,40 @@
+
+.Search {
+    margin-top: 100px;
+}
+
+.SearchForm {
+
+}
+
+.SearchWrapper {
+    width: 600px;
+    max-width: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SearchField {
+    background-color: #fff;
+    padding: 15px;
+    outline: none;
+    border: none;
+    width: 100%;
+    border-radius: 20px 0 0 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.SearchButton {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 0 20px 20px 0;
+    background-color: #7C2B2B;
+    color: #fff;
+    width: 90px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}

@@ -1,0 +1,52 @@
+.MovieDetailed {
+    display: flex;
+    align-items: flex-start;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: 60px;
+}
+
+.MovieDetailedShow {
+    width: calc(100% / 12 * 4 - 30px);
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.MovieDetailedShow img {
+    width: 100%;
+}
+
+.MovieDetailedInfo {
+    width: calc(100% / 12 * 8 - 30px);
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.MovieDetailedTitle {
+    font-size: 52px;
+    margin-top: 0;
+}
+
+.MovieInfoList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+.MovieInfoList li {
+    border: 1px solid rgba(255,255,255,.125);
+    display: block;
+    padding: 0.75rem 1.25rem;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.MovieInfoList li:first-child {
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.MovieLinkDetailedPage {
+    margin-left: auto;
+}

@@ -1,0 +1,36 @@
+.preloader{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.preloader.fullscreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    position: fixed;
+    z-index: 999999;
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+
+
+.preloader svg {
+    width: 75px;
+    height: 75px;
+}
+
+.preloader-border {
+    stroke: #fff;
+    stroke-width: 3;
+    fill: none;
+}
+
+.preloader-inner {
+    fill: #D50222;
+}
