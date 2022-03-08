@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/konoplitskii/MovieSearchApp/static/css/main.f9152d0d.chunk.css",
+    "main.js": "/konoplitskii/MovieSearchApp/static/js/main.0342526d.chunk.js",
+    "main.js.map": "/konoplitskii/MovieSearchApp/static/js/main.0342526d.chunk.js.map",
+    "runtime-main.js": "/konoplitskii/MovieSearchApp/static/js/runtime-main.a67c2786.js",
+    "runtime-main.js.map": "/konoplitskii/MovieSearchApp/static/js/runtime-main.a67c2786.js.map",
+    "static/js/2.7b08fefa.chunk.js": "/konoplitskii/MovieSearchApp/static/js/2.7b08fefa.chunk.js",
+    "static/js/2.7b08fefa.chunk.js.map": "/konoplitskii/MovieSearchApp/static/js/2.7b08fefa.chunk.js.map",
+    "index.html": "/konoplitskii/MovieSearchApp/index.html",
+    "static/css/main.f9152d0d.chunk.css.map": "/konoplitskii/MovieSearchApp/static/css/main.f9152d0d.chunk.css.map",
+    "static/js/2.7b08fefa.chunk.js.LICENSE.txt": "/konoplitskii/MovieSearchApp/static/js/2.7b08fefa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a67c2786.js",
+    "static/js/2.7b08fefa.chunk.js",
+    "static/css/main.f9152d0d.chunk.css",
+    "static/js/main.0342526d.chunk.js"
+  ]
+}
